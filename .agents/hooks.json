@@ -1,0 +1,11 @@
+{
+  "gitpilot": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "node \"../scripts/antigravity-stop-hook.cjs\"",
+        "timeout": 15
+      }
+    ]
+  }
+}
